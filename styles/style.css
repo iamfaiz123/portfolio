@@ -1,0 +1,23 @@
+#cloud2{
+  
+  right:5cm;
+  top:3cm;
+  height:5cm;
+  width: 8cm;
+}
+#cloud1{
+  height:5cm;
+  width: 8cm;
+  display:inline-block;
+  position: absolute;
+  top: 130px;
+  right:170px;
+}
+#cloud2{
+  position:absolute;
+  left:60px;
+  top:60px;
+}
+body{
+  font-family: 'Ephesis', cursive;
+}
